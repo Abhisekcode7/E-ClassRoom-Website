@@ -1,0 +1,76 @@
+Greet-meeT
+
+Instructions
+open cmd on the project folder path.
+
+python -m venv venv
+venv\scripts\activate
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+
+
+For Admin Account, please create one with superuser!
+python manage.py createsuperuser
+id : root
+pass : root
+Email address: root@gmail.com
+
+
+Python
+Class : 02
+Code : swrfdkg
+View Class
+
+Java
+Class : 01
+Code : 8aq08by
+
+Admin
+Username : admin@admin.com
+Email address: root1@admin.com
+Password: admin@123
+
+Email_address: root2@admin.com
+Password:admin@123
+
+Teacher
+akash@gmail.com
+123456
+
+Student
+abhi@gmail.com
+123456
+
+
+Next time when you login into the project use these commands:-
+=====================================================================
+venv\scripts\activate
+python manage.py runserver
+
+
+Then go to the chrome nrowser and type the following URL:-
+===========================================================
+http://127.0.0.1:8000/login/
+
+==>  When you want to close the server type the buttons "CTRL + C", in the command prompt terminal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
